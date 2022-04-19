@@ -6,5 +6,5 @@ data class Movie(
     val name: String,
     val author: String,
     val description: String,
-    val year: Int,
+    val year: String,
 ):Serializable

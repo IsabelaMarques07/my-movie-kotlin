@@ -11,4 +11,14 @@
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
     <string name="main_add_movie">new movie</string>
     <string name="movie_list">Meus Filmes</string>
+    <string name="add">+</string>
+    <string name="nome_do_filme">Nome do filme:</string>
+    <string name="null_value">-</string>
+    <string name="ano_de_lancamento">Ano de lançamento:</string>
+    <string name="autor">Autor:</string>
+    <string name="descricao">Descrição:</string>
+    <string name="nome">Nome</string>
+    <string name="author">Autor</string>
+    <string name="descri_o">Descrição</string>
+    <string name="ano">Ano</string>
 </resources>

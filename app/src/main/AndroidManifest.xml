@@ -10,9 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyMovie">
         <activity
+            android:name=".AddMovieActivity"
+            android:exported="false"
+            android:label="Adicionar filme"
+            android:parentActivityName=".MainActivity" />
+        <activity
             android:name=".ViewMovieActivity"
             android:exported="false"
-            android:parentActivityName=".MainActivity"/>
+            android:label="Detalhes"
+            android:parentActivityName=".MainActivity" />
         <activity
             android:name=".MainActivity"
             android:exported="true"
